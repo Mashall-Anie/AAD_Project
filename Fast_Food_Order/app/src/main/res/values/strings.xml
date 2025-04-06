@@ -1,0 +1,78 @@
+<resources>
+    <!-- ************  String start Giang ************  -->
+    <!-- Bottom navigation-->
+    <string name="app_name">Fast Food</string>
+    <string name="menu_home_title">Trang chủ</string>
+    <string name="menu_desc_title">Phản hồi</string>
+    <string name="menu_order_title">Đơn hàng</string>
+    <string name="menu_account_title">Tài khoản</string>
+
+    <!--  Trang Món ngon  -->
+    <string name="heading_1">MÓN NGON</string>
+    <string name="heading_1_2">THÊM MÓN NGON</string>
+    <string name="heading_2">ĐỒ UỐNG</string>
+    <string name="heading_2_1">THÊM ĐỒ UỐNG</string>
+    <string name="heading_3">ĐỒ TRÁNG MIỆNG</string>
+    <string name="heading_3_1">THÊM ĐỒ TRÁNG MIỆNG</string>
+    <string name="heading_desc">PHẢN HỒI</string>
+    <string name="heading_order">ĐƠN HÀNG</string>
+    <string name="heading_account">TÀI KHOẢN</string>
+    <string name="heading_revenue">DOANH THU</string>
+
+    <!-- Trang thêm món ngon, đồ uống, nước giải khát -->
+    <string name="label_name">Tên (*)</string>
+    <string name="label_desc">Mô tả</string>
+    <string name="label_price">Giá (*)</string>
+    <string name="label_sale">Khuyến mại</string>
+    <string name="label_img">Ảnh chính (*)</string>
+    <string name="label_slider">Ảnh Slider (*)</string>
+    <string name="label_url_other">Các ảnh khác (*)</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!-- ************  String end Giang ************  -->
+
+    <!--    Trang chủ User-->
+    <string name="search_view">Tìm kiếm</string>
+    <string name="txt_danhmuc">Danh mục món ngon</string>
+    <string name="txt_category_food">Món ngon</string>
+    <string name="txt_category_drink">Đồ uống</string>
+    <string name="txt_category_dessert">Tráng miệng</string>
+    <string name="txt_thich">Có thể bạn sẽ thích</string>
+
+    <string name="title_home">Trang chủ</string>
+    <string name="title_cart">Giỏ hàng</string>
+    <string name="title_comment">Phản hồi</string>
+    <string name="title_contact">Liên hệ</string>
+    <string name="title_user">Tài khoản</string>
+
+    <!--    Trang món ngon User-->
+    <string name="title_monngon">MÓN NGON</string>
+
+    <!--    Trang đồ uống User-->
+    <string name="title_douong">ĐỒ UỐNG</string>
+
+    <!--    Trang tráng miệng User-->
+    <string name="title_dessert">TRÁNG MIỆNG</string>
+
+    <!--    Trang chi tiết User-->
+    <string name="title_detail">CHI TIẾT</string>
+    <string name="title_price">Giá:</string>
+    <string name="title_desc">Mô tả:</string>
+    <string name="title_img">Một số hình ảnh khác:</string>
+    <string name="title_button">Thêm vào giỏ hàng</string>
+
+    <!--    BottomSheetDialog trang chi tiết-->
+    <string name="btn_huybo">Hủy bỏ</string>
+    <string name="btn_themvaogiohang">Thêm vào giỏ hàng</string>
+
+    <string name="action_trangChu">Trang chủ</string>
+    <string name="action_phanHoi">Phản hồi</string>
+    <string name="action_donHang">Đơn hàng</string>
+    <string name="action_taiKhoan">Tài khoản</string>
+
+    <!--Trang giỏ hàng-->
+    <string name="title_cart_page">GIỎ HÀNG</string>
+    <string name="sum">Tổng tiền</string>
+    <string name="add_order">Tạo đơn hàng</string>
+</resources>
+
