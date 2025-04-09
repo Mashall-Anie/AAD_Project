@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Fast_Food"
+rootProject.name = "Android-Food-App"
 include ':app'
