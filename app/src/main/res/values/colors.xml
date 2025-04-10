@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- ************ Color start Giang ************   -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primaryColor">#FB7A43</color>
+    <color name="searchColor">#D9D3D3</color>
+    <color name="labelColor">#9A9797</color>
+    <color name="edtColor">#D9D9D9</color>
+    <!-- ************ Color end Giang   -->
+
+    <color name="orange">#FB7A43</color>
+    <color name="grey">#9A9797</color>
+</resources>
