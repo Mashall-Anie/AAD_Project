@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginStart="10dp"
+    android:layout_marginEnd="10dp"
+    android:layout_marginTop="10dp">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <ImageView
+            android:id="@+id/img_cart"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/kem1" />
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_marginStart="10dp"
+            >
+
+            <TextView
+                android:id="@+id/txt_name_cart"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Kem"
+                android:fontFamily="@font/inter_semibold"
+                android:textSize="20dp"
+                android:textStyle="bold"/>
+            <TextView
+                android:id="@+id/txt_price_cart"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="20 000 VND"
+                android:fontFamily="@font/inter_semibold"
+                android:textSize="22dp"
+                android:textStyle="bold"
+                android:textColor="@color/orange"/>
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+
+                android:layout_marginStart="20dp"
+                android:gravity="center"
+                android:weightSum="3">
+                <ImageView
+                    android:id="@+id/btn_minus"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/minus"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    />
+                <TextView
+                    android:id="@+id/txt_count"
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:text="1"
+                    android:gravity="center"
+                    android:textSize="25dp"
+                    android:textStyle="bold"
+                    android:layout_weight="1"
+                    android:textColor="@color/orange"/>
+                <ImageView
+                    android:id="@+id/btn_add"
+                    android:gravity="center"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/ic_add_cart"
+                    android:layout_weight="1"
+                    />
+            </LinearLayout>
+        </LinearLayout>
+
+        <ImageButton
+            android:id="@+id/btn_delete_cart"
+            android:layout_width="8dp"
+            android:layout_height="55dp"
+            android:layout_gravity="center"
+            android:layout_marginStart="@dimen/fab_size_normal"
+            android:layout_weight="0.5"
+            android:backgroundTint="@color/orange"
+            android:contentDescription="Xóa"
+            android:minWidth="40dp"
+            android:minHeight="40dp"
+            android:scaleType="fitCenter"
+            android:src="@drawable/ic_trash_detail" />
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>
