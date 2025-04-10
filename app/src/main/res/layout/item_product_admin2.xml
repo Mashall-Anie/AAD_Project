@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardCornerRadius="10dp"
+    android:layout_marginTop="10dp"
+    android:layout_marginEnd="10dp"
+    android:layout_marginStart="10dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center">
+
+        <FrameLayout
+            android:layout_marginTop="8dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center">
+
+            <ImageView
+                android:id="@+id/imgUrl"
+                android:layout_width="@android:dimen/thumbnail_height"
+                android:layout_height="@android:dimen/thumbnail_height"
+                android:scaleType="centerCrop"
+                android:layout_gravity="center"
+                android:src="@drawable/imgslider1"/>
+
+            <TextView
+                android:id="@+id/txt_sale"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="5dp"
+                android:textColor="@color/orange"
+                android:background="@color/white"
+                android:textSize="13dp"
+                android:text="Giảm 10%"
+                android:layout_marginTop="150dp"
+                android:fontFamily="@font/inter_semibold"
+                android:gravity="center"/>
+
+        </FrameLayout>
+
+        <TextView
+            android:id="@+id/txt_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/orange"
+            android:text="Salad cá hồi"
+            android:fontFamily="@font/inter_semibold"
+            android:textSize="20dp"/>
+
+        <FrameLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/txt_price_old"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/grey"
+                android:text="20 000 VNĐ"
+                android:fontFamily="@font/inter_regular"
+                android:textSize="15dp"
+                android:layout_gravity="center"/>
+
+            <View
+                android:id="@+id/line"
+                android:layout_width="100dp"
+                android:layout_height="2dp"
+                android:layout_gravity="center_vertical"
+                android:background="@color/grey"/>
+
+        </FrameLayout>
+
+        <TextView
+            android:id="@+id/txt_price_new"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:fontFamily="@font/inter_semibold"
+            android:text="10 000 VNĐ"
+            android:textSize="18dp"/>
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>

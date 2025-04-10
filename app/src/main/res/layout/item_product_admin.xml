@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="10dp"
+    android:layout_marginRight="10dp"
+    android:id="@+id/recCard">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="10dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <FrameLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <ImageView
+                    android:id="@+id/imgUrl"
+                    android:layout_width="110dp"
+                    android:layout_height="80dp"
+                    android:src="@drawable/monngon1admin"
+                    android:scaleType="centerCrop"/>
+
+                <TextView
+                    android:id="@+id/txt_sale0"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:padding="5dp"
+                    android:textColor="@color/white"
+                    android:background="@color/primaryColor"
+                    android:textSize="13dp"
+                    android:text="Giảm"
+                    android:layout_marginTop="30dp"
+                    android:textStyle="bold"
+                    android:gravity="center"/>
+
+                <TextView
+                    android:id="@+id/txt_sale"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:padding="5dp"
+                    android:textColor="@color/white"
+                    android:background="@color/primaryColor"
+                    android:textSize="13dp"
+                    android:text="10"
+                    android:layout_marginLeft="40dp"
+                    android:layout_marginTop="30dp"
+                    android:textStyle="bold"
+                    android:gravity="center"/>
+
+                <TextView
+                    android:id="@+id/txt_sale1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:padding="5dp"
+                    android:textColor="@color/white"
+                    android:background="@color/primaryColor"
+                    android:textSize="13dp"
+                    android:text="%"
+                    android:layout_marginTop="30dp"
+                    android:layout_marginLeft="64dp"
+                    android:textStyle="bold"
+                    android:gravity="center"/>
+            </FrameLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_marginLeft="30dp">
+
+<!--                <TextView-->
+<!--                    android:id="@+id/txt_id"-->
+<!--                    android:layout_width="wrap_content"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:text="123"-->
+<!--                    android:textSize="20sp"-->
+<!--                    android:textStyle="bold"-->
+<!--                    android:textColor="@color/black"-->
+<!--                    android:layout_marginBottom="6dp"/>-->
+
+                <TextView
+                    android:id="@+id/txt_name"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Humburger Bò"
+                    android:textSize="20sp"
+                    android:textStyle="bold"
+                    android:textColor="@color/black"
+                    android:layout_marginBottom="6dp"/>
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:layout_marginBottom="6dp">
+
+                    <FrameLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content">
+
+                        <TextView
+                            android:id="@+id/txt_price_old"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="100 000"
+                            android:textSize="20sp"/>
+
+                        <View
+                            android:id="@+id/line"
+                            android:layout_width="110dp"
+                            android:layout_height="2dp"
+                            android:layout_gravity="center_vertical"
+                            android:background="@color/grey" />
+
+                        <TextView
+                            android:id="@+id/txt_title_price_old"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="VNĐ"
+                            android:paddingLeft="76dp"
+                            android:textSize="20sp"/>
+
+                    </FrameLayout>
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:layout_marginBottom="6dp">
+
+                    <TextView
+                        android:id="@+id/txt_price_new"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="100 000"
+                        android:textSize="20sp"
+                        android:textStyle="bold"
+                        android:textColor="@color/primaryColor"/>
+
+                    <TextView
+                        android:id="@+id/txt_title_price_new"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="VNĐ"
+                        android:paddingLeft="8dp"
+                        android:textSize="20sp"
+                        android:textStyle="bold"
+                        android:textColor="@color/primaryColor"/>
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:id="@+id/txt_title_popular"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Phổ biến: "
+                        android:textSize="18sp"
+                        android:textStyle="bold"
+                        android:textColor="@color/black" />
+
+                    <TextView
+                        android:id="@+id/txt_popular"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Có"
+                        android:textSize="18sp"
+                        android:textStyle="bold"
+                        android:textColor="@color/black" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:layout_marginTop="10dp">
+
+                    <TextView
+                        android:id="@+id/txt_title_product_type"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Loại sản phẩm: "
+                        android:textSize="18sp"
+                        android:textStyle="bold"
+                        android:textColor="@color/black" />
+
+                    <TextView
+                        android:id="@+id/txt_product_type"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Tráng miệng"
+                        android:textSize="15sp"
+                        android:textStyle="bold|italic"
+                        android:textColor="@color/black" />
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+
+
+        </LinearLayout>
+
+
+        <TextView
+            android:id="@+id/txt_desc"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="6dp"
+            android:textSize="16sp"
+            android:textColor="@color/grey"
+            android:textStyle="bold"
+            android:text="Hamburger là tên gọi dùng để chỉ một loại bánh mì kẹp bao gồm hai phần bánh trên và dưới với phần nhân là sa lát kẹp cùng thịt hun khói, thịt..."/>
+
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>
