@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@color/white">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_margin="16dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/orange"
+            android:padding="8dp"
+            android:text="Chỉnh sửa thông tin"
+            android:textAlignment="center"
+            android:textColor="@color/white"
+            android:textSize="20dp"
+            />
+        <EditText
+            android:id="@+id/edt_update_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Họ và tên"
+            android:layout_marginTop="5dp"
+            android:textSize="18dp"
+            />
+        <EditText
+            android:id="@+id/edt_update_phone"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Số điện thoại"
+            android:layout_marginTop="15dp"
+            android:textSize="18dp"
+            android:inputType="number"
+
+            />
+        <EditText
+            android:id="@+id/edt_update_address"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Địa chỉ"
+            android:layout_marginTop="15dp"
+            android:textSize="18dp"
+            />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <Button
+                android:id="@+id/btn_cancel"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:text="Cancel"
+                android:layout_weight="1"
+                android:backgroundTint="@color/grey"
+                android:layout_marginEnd="10dp"/>
+            <Button
+                android:id="@+id/btn_update"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:text="Update"
+                android:layout_weight="1"
+                android:backgroundTint="@color/orange"/>
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>
