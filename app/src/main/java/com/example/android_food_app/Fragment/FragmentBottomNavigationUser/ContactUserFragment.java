@@ -76,7 +76,7 @@ public class ContactUserFragment extends Fragment {
             @Override
             public void onClick(View v) {
                 // Open Facebook link
-                Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://www.facebook.com/profile.php?id=100034610440793"));
+                Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://www.facebook.com/NgocAnh062"));
                 startActivity(intent);
             }
         });
@@ -86,7 +86,7 @@ public class ContactUserFragment extends Fragment {
             @Override
             public void onClick(View v) {
                 // Open TikTok link
-                Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://www.facebook.com/profile.php?id=100034610440793"));
+                Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://www.tiktok.com"));
                 startActivity(intent);
             }
         });
