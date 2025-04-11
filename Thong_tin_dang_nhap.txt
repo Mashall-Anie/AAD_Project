@@ -1,0 +1,7 @@
+Tài khoản Admin
+- Email: abc@gmail.com
+- Mật khẩu: 123456
+
+Tài khoản User
+- Email: aaa@gmail.com	
+- Mật khẩu: 123456
