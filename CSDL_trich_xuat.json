@@ -1,0 +1,459 @@
+{
+  "OrderDetails": {
+    "-ONT3V_yoXIW-pjkw48Y": {
+      "orderId": "9RgoS5WJxH",
+      "productName": "Tacos",
+      "quantity": 1,
+      "totalPrice": 69
+    },
+    "-ONT3Va3-F-jFdl8-8si": {
+      "orderId": "9RgoS5WJxH",
+      "productName": "Pizza size S",
+      "quantity": 1,
+      "totalPrice": 89.1
+    },
+    "-ONT3Va40rXr10AbaLd0": {
+      "orderId": "9RgoS5WJxH",
+      "productName": "Pizza size S",
+      "quantity": 1,
+      "totalPrice": 89.1
+    },
+    "-ONT3Va40rXr10AbaLd1": {
+      "orderId": "9RgoS5WJxH",
+      "productName": "Pizza size S",
+      "quantity": 1,
+      "totalPrice": 89.1
+    },
+    "-ONT7tET5JamexSwPYHW": {
+      "orderId": "gQIRk3xaJx",
+      "productName": "Tacos",
+      "quantity": 1,
+      "totalPrice": 69
+    },
+    "-ONT7tEUgkawscdg1nmd": {
+      "orderId": "gQIRk3xaJx",
+      "productName": "Pizza size S",
+      "quantity": 1,
+      "totalPrice": 89.1
+    },
+    "-ONT7tEUgkawscdg1nme": {
+      "orderId": "gQIRk3xaJx",
+      "productName": "Pizza size S",
+      "quantity": 1,
+      "totalPrice": 89.1
+    },
+    "-ONT7tEWfW72H1LgoVK0": {
+      "orderId": "gQIRk3xaJx",
+      "productName": "Pizza size S",
+      "quantity": 1,
+      "totalPrice": 89.1
+    },
+    "-ONV2pg3PbSRhbi8xxMk": {
+      "orderId": "TEnRL0j0lc",
+      "productName": "Pizza size S",
+      "quantity": 1,
+      "totalPrice": 89.1
+    },
+    "-ONVMx-1-6GNTugzNCYS": {
+      "orderId": "dLndTsRsm8",
+      "productName": "Pizza size S",
+      "quantity": 1,
+      "totalPrice": 89.1
+    }
+  },
+  "Orders": {
+    "9RgoS5WJxH": {
+      "address": "",
+      "date": "2025-04-10 12:00:21",
+      "deliveryCost": 20000,
+      "id": "9RgoS5WJxH",
+      "name": "",
+      "phone": "",
+      "status": "Xác nhận",
+      "total": 336.29999999999995,
+      "userID": "mQOTWe4JbsNhBbUlMfYSoYcMwjA2"
+    },
+    "MAd9QvUG96": {
+      "address": "",
+      "date": "2025-04-04 04:11:27",
+      "deliveryCost": 20000,
+      "id": "MAd9QvUG96",
+      "name": "",
+      "phone": "",
+      "status": "Xác nhận",
+      "total": 0,
+      "userID": "HNQO0HPcQjN17zBBThTfg5fYyW53"
+    },
+    "TEnRL0j0lc": {
+      "address": "B15",
+      "date": "2025-04-10 21:16:40",
+      "deliveryCost": 20000,
+      "id": "TEnRL0j0lc",
+      "name": "Nguyễn Văn A",
+      "phone": "0346030566",
+      "status": "Chưa xác nhận",
+      "total": 89.1,
+      "userID": "mQOTWe4JbsNhBbUlMfYSoYcMwjA2"
+    },
+    "c5k5hm1Isk": {
+      "address": "a",
+      "date": "2025-04-04 04:16:57",
+      "deliveryCost": 20000,
+      "id": "c5k5hm1Isk",
+      "name": "a",
+      "phone": "0987654321",
+      "status": "Xác nhận",
+      "total": 0,
+      "userID": "HNQO0HPcQjN17zBBThTfg5fYyW53"
+    },
+    "dLndTsRsm8": {
+      "address": "",
+      "date": "2025-04-10 22:44:33",
+      "deliveryCost": 20000,
+      "id": "dLndTsRsm8",
+      "name": "",
+      "phone": "",
+      "status": "Xác nhận",
+      "total": 89.1,
+      "userID": "mQOTWe4JbsNhBbUlMfYSoYcMwjA2"
+    },
+    "gQIRk3xaJx": {
+      "address": "",
+      "date": "2025-04-10 12:19:31",
+      "deliveryCost": 20000,
+      "id": "gQIRk3xaJx",
+      "name": "",
+      "phone": "",
+      "status": "Chưa xác nhận",
+      "total": 336.29999999999995,
+      "userID": "mQOTWe4JbsNhBbUlMfYSoYcMwjA2"
+    },
+    "jXEq2vWVjm": {
+      "address": "b15",
+      "date": "2025-04-09 21:46:42",
+      "deliveryCost": 20000,
+      "id": "jXEq2vWVjm",
+      "name": "dd",
+      "phone": "03",
+      "status": "Chưa xác nhận",
+      "total": 0,
+      "userID": "mQOTWe4JbsNhBbUlMfYSoYcMwjA2"
+    }
+  },
+  "currentProductId": 23,
+  "customers": {
+    "2857463255098700071": {
+      "address": "B15",
+      "emailuser": "aaa@gmail.com",
+      "id": 2857463255098700300,
+      "name": "Nguyễn Văn A",
+      "phone": "0346030566"
+    },
+    "3151874452178554703": {
+      "address": "b15",
+      "emailuser": "aaa@gmail.com",
+      "id": 3151874452178555000,
+      "name": "dd",
+      "phone": "03"
+    },
+    "3285313162085776062": {
+      "address": "",
+      "emailuser": "aaa@gmail.com",
+      "id": 3285313162085776000,
+      "name": "",
+      "phone": ""
+    },
+    "3795160103709132263": {
+      "address": "a",
+      "emailuser": "abc@gmail.com",
+      "id": 3795160103709132300,
+      "name": "a",
+      "phone": "0987654321"
+    },
+    "5948103284927019183": {
+      "address": "",
+      "emailuser": "aaa@gmail.com",
+      "id": 5948103284927019000,
+      "name": "",
+      "phone": ""
+    }
+  },
+  "feedbacks": {
+    "-ONYtx2dLcMVd66lHMci": {
+      "comment": "Món ăn này ngon",
+      "date": "11/04/2025 15:11",
+      "id": "-ONYtx2dLcMVd66lHMci",
+      "userID": "mQOTWe4JbsNhBbUlMfYSoYcMwjA2"
+    },
+    "-ONYu1Eab13XXkJwK9Qv": {
+      "comment": "buger gà không bị khô, 10đ",
+      "date": "11/04/2025 15:12",
+      "id": "-ONYu1Eab13XXkJwK9Qv",
+      "userID": "mQOTWe4JbsNhBbUlMfYSoYcMwjA2"
+    }
+  },
+  "products": [
+    null,
+    null,
+    null,
+    null,
+    {
+      "desc": "Matcha latte là một loại đồ uống pha từ bột trà xanh matcha và sữa (có thể là sữa tươi, sữa hạt…), thường được khuấy đều tạo lớp bọt mịn. Đồ uống này có hương vị nhẹ nhàng, hơi đắng đặc trưng của matcha hòa quyện với vị béo ngậy của sữa, vừa thơm ngon vừa giàu chất chống oxy hóa",
+      "id": 980694,
+      "imgURL": "https://firebasestorage.googleapis.com/v0/b/aad-project-8e15b.firebasestorage.app/o/Save%20Images%2F3147?alt=media&token=75a8f9d2-07cd-4a01-915e-086e25690e40",
+      "imgURLOther": "https://firebasestorage.googleapis.com/v0/b/aad-project-8e15b.firebasestorage.app/o/Save%20Images%2F3146?alt=media&token=155d7b28-cab6-4500-b5a2-5554fa4ffc3c",
+      "imgURlSlider": "https://firebasestorage.googleapis.com/v0/b/aad-project-8e15b.firebasestorage.app/o/Save%20Images%2F3145?alt=media&token=5c9695fa-c0db-4c1b-b07c-eaca6b3b3e56",
+      "name": "Matcha Latte",
+      "popular": true,
+      "priceNew": "55.000",
+      "priceOld": "55000",
+      "productType": "Đồ uống",
+      "sale": ""
+    },
+    {
+      "desc": "Trà chanh là một loại đồ uống quen thuộc và phổ biến, đặc biệt vào mùa hè. Được pha từ trà (thường là trà xanh hoặc trà đen), kết hợp với nước cốt chanh, đường và đá lạnh, trà chanh mang lại hương vị chua ngọt dễ chịu, thanh mát và sảng khoái. Ngoài công dụng giải khát, trà chanh còn giúp thanh lọc cơ thể, tăng cường đề kháng và hỗ trợ tiêu hóa. Đây là thức uống yêu thích của nhiều người, từ học sinh, sinh viên đến dân văn phòng, thường xuất hiện tại các quán trà đá vỉa hè hay quán cà phê hiện đại.",
+      "id": 620820,
+      "imgURL": "https://firebasestorage.googleapis.com/v0/b/aad-project-8e15b.firebasestorage.app/o/Save%20Images%2F3150?alt=media&token=b37b9bc9-49f8-4926-ac2b-9dd60e80190c",
+      "imgURLOther": "https://firebasestorage.googleapis.com/v0/b/aad-project-8e15b.firebasestorage.app/o/Save%20Images%2F3152?alt=media&token=c4a0a4a5-9a14-4134-8ab9-5b9e359b51f7",
+      "imgURlSlider": "https://firebasestorage.googleapis.com/v0/b/aad-project-8e15b.firebasestorage.app/o/Save%20Images%2F3151?alt=media&token=9a61cd67-156d-4037-a642-d2854b6c320c",
+      "name": "Trà chanh",
+      "popular": true,
+      "priceNew": "20.000",
+      "priceOld": "20.000",
+      "productType": "Đồ uống",
+      "sale": ""
+    },
+    null,
+    {
+      "desc": "Bạc xỉu là một loại đồ uống có nguồn gốc từ Sài Gòn xưa, tên đầy đủ là \"bạc tẩy xỉu phé\" trong tiếng Quảng Đông. Đây là sự kết hợp giữa sữa đặc và một lượng nhỏ cà phê, thường được pha với nước nóng hoặc đá. Khác với cà phê sữa truyền thống, bạc xỉu có vị ngọt béo đậm hơn và vị cà phê nhẹ hơn, phù hợp với những ai yêu thích hương cà phê nhưng không uống được vị đắng. Bạc xỉu thường được thưởng thức vào buổi sáng hoặc như một món giải khát nhẹ nhàng trong ngày.",
+      "id": 137123,
+      "imgURL": "https://firebasestorage.googleapis.com/v0/b/aad-project-8e15b.firebasestorage.app/o/Save%20Images%2F3158?alt=media&token=dcb643aa-e7f1-4d97-8d9d-2379e44896ac",
+      "imgURLOther": "https://firebasestorage.googleapis.com/v0/b/aad-project-8e15b.firebasestorage.app/o/Save%20Images%2F3156?alt=media&token=37f1bbf8-fd21-47e1-ae3d-5e396fd40caf",
+      "imgURlSlider": "https://firebasestorage.googleapis.com/v0/b/aad-project-8e15b.firebasestorage.app/o/Save%20Images%2F3159?alt=media&token=3e57fd35-1dd3-42b8-b29a-bc04301eeba1",
+      "name": "Bạc xỉu đá",
+      "popular": true,
+      "priceNew": "35.000",
+      "priceOld": "35.000",
+      "productType": "Đồ uống",
+      "sale": ""
+    },
+    {
+      "desc": "Trà đào là một loại đồ uống được pha từ trà (thường là trà đen hoặc trà xanh) kết hợp với siro đào hoặc lát đào ngâm. Đồ uống này có hương vị thanh mát, chua ngọt dịu nhẹ và thơm hương đào tự nhiên. Trà đào thường được dùng lạnh, rất thích hợp để giải khát vào những ngày nắng nóng. Đây là một trong những món trà trái cây được giới trẻ ưa chuộng nhờ hương vị dễ uống và cảm giác sảng khoái khi thưởng thức.",
+      "id": 890853,
+      "imgURL": "https://firebasestorage.googleapis.com/v0/b/aad-project-8e15b.firebasestorage.app/o/Save%20Images%2F3160?alt=media&token=734023ef-0994-43c4-915f-c09a34e82156",
+      "imgURLOther": "https://firebasestorage.googleapis.com/v0/b/aad-project-8e15b.firebasestorage.app/o/Save%20Images%2F3162?alt=media&token=40f673fb-da44-4ada-84ba-5fe053873a03",
+      "imgURlSlider": "https://firebasestorage.googleapis.com/v0/b/aad-project-8e15b.firebasestorage.app/o/Save%20Images%2F3161?alt=media&token=121f0f3e-5315-4756-ae51-bc5f836132f9",
+      "name": "Trà đào",
+      "popular": false,
+      "priceNew": "25.000",
+      "priceOld": "25000",
+      "productType": "Đồ uống",
+      "sale": ""
+    },
+    {
+      "desc": "Pizza là món ăn nổi tiếng của Ý với lớp đế bánh giòn rụm, phủ sốt cà chua đậm đà, phô mai béo ngậy và đa dạng topping như xúc xích, thịt xông khói, rau củ hay hải sản. Khi nướng, phô mai tan chảy kết hợp cùng hương thơm của các loại gia vị tạo nên một món ăn hấp dẫn, phù hợp cho mọi bữa ăn từ đơn giản đến sang trọng.",
+      "id": 749508,
+      "imgURL": "https://firebasestorage.googleapis.com/v0/b/aad-project-8e15b.firebasestorage.app/o/Save%20Images%2F70?alt=media&token=ee3cee59-7184-40f7-bcc2-e4b5e774d931",
+      "imgURLOther": "https://firebasestorage.googleapis.com/v0/b/aad-project-8e15b.firebasestorage.app/o/Save%20Images%2F69?alt=media&token=d0a55783-befa-4c4b-bdf1-d04ea0fd47a6",
+      "imgURlSlider": "https://firebasestorage.googleapis.com/v0/b/aad-project-8e15b.firebasestorage.app/o/Save%20Images%2F68?alt=media&token=3a9e27a9-2ca1-4ce1-a89e-15765167dfbd",
+      "name": "Pizza size S",
+      "popular": false,
+      "priceNew": "89.100",
+      "priceOld": "99.000",
+      "productType": "Món ngon",
+      "sale": "10"
+    },
+    {
+      "desc": "Tacos là món ăn truyền thống của Mexico gồm vỏ bánh ngô hoặc bánh mì mềm, kẹp nhân như thịt bò, gà, cá, rau sống và phô mai. Ăn kèm sốt salsa, guacamole hoặc kem chua, tacos mang đến hương vị đậm đà, cay nồng và tươi mới. Món này thích hợp cho bữa ăn nhẹ hoặc tiệc nhỏ, dễ ăn và rất ngon miệng.",
+      "id": 444507,
+      "imgURL": "https://firebasestorage.googleapis.com/v0/b/aad-project-8e15b.firebasestorage.app/o/Save%20Images%2F63?alt=media&token=c676663e-7d10-442e-92cd-871e52e853ef",
+      "imgURLOther": "https://firebasestorage.googleapis.com/v0/b/aad-project-8e15b.firebasestorage.app/o/Save%20Images%2F64?alt=media&token=ee3150a9-a8b5-4fc1-bf80-aaceb2bedda9",
+      "imgURlSlider": "https://firebasestorage.googleapis.com/v0/b/aad-project-8e15b.firebasestorage.app/o/Save%20Images%2F62?alt=media&token=5ef301ba-99ba-471d-9808-9d31f617a0e9",
+      "name": "Tacos",
+      "popular": false,
+      "priceNew": "69.000",
+      "priceOld": "69.000",
+      "productType": "Món ngon",
+      "sale": ""
+    },
+    {
+      "desc": "Cánh gà rán là món ăn khoái khẩu với lớp da giòn rụm, được tẩm ướp gia vị vừa miệng và chiên vàng đều. Phần thịt bên trong mềm ngọt, thấm vị, thường được ăn kèm tương ớt, sốt cay hay sốt BBQ. Đây là món ăn lý tưởng cho các buổi tụ họp bạn bè, xem phim hay tiệc nhỏ.",
+      "id": 621235,
+      "imgURL": "https://firebasestorage.googleapis.com/v0/b/aad-project-8e15b.firebasestorage.app/o/Save%20Images%2F76?alt=media&token=a6eaeb03-a4d0-41a6-98d9-3e2b49a8fcce",
+      "imgURLOther": "https://firebasestorage.googleapis.com/v0/b/aad-project-8e15b.firebasestorage.app/o/Save%20Images%2F74?alt=media&token=0fbe00f7-743b-4631-b20d-f9d6d53e7a43",
+      "imgURlSlider": "https://firebasestorage.googleapis.com/v0/b/aad-project-8e15b.firebasestorage.app/o/Save%20Images%2F75?alt=media&token=981a22e0-7c40-47a0-bd5b-4ef5a230c242",
+      "name": "Cánh gà rán",
+      "popular": false,
+      "priceNew": "30.000",
+      "priceOld": "30000",
+      "productType": "Món ngon",
+      "sale": ""
+    },
+    {
+      "desc": "Đùi gà rán là món ăn phổ biến với lớp vỏ giòn tan, vàng ruộm bên ngoài và phần thịt mềm ngọt bên trong. Gà được tẩm ướp kỹ lưỡng với gia vị thơm ngon trước khi chiên ngập dầu. Món này thường được dùng kèm khoai tây chiên, salad hoặc sốt chấm tùy khẩu vị, rất được yêu thích bởi mọi lứa tuổi.",
+      "id": 105487,
+      "imgURL": "https://firebasestorage.googleapis.com/v0/b/aad-project-8e15b.firebasestorage.app/o/Save%20Images%2F72?alt=media&token=384a8d48-7892-4d8d-bffb-bdcdc2538430",
+      "imgURLOther": "https://firebasestorage.googleapis.com/v0/b/aad-project-8e15b.firebasestorage.app/o/Save%20Images%2F73?alt=media&token=037ea9c7-1ef3-49e0-91c7-3cf464326137",
+      "imgURlSlider": "https://firebasestorage.googleapis.com/v0/b/aad-project-8e15b.firebasestorage.app/o/Save%20Images%2F71?alt=media&token=3ae10db5-14b0-4f3d-980c-3a9a6232dfb4",
+      "name": "Đùi gà rán",
+      "popular": false,
+      "priceNew": "35.000",
+      "priceOld": "35000",
+      "productType": "Món ngon",
+      "sale": ""
+    },
+    {
+      "desc": "Salad ức gà là món ăn thanh mát và bổ dưỡng, kết hợp giữa ức gà nướng hoặc luộc mềm ngọt cùng các loại rau xanh tươi như xà lách, cà chua, dưa leo. Món ăn thường được rưới sốt mè rang, sốt dầu giấm hoặc mayonnaise, giúp tăng hương vị. Đây là lựa chọn tuyệt vời cho người ăn kiêng hoặc yêu thích lối sống lành mạnh.",
+      "id": 504840,
+      "imgURL": "https://firebasestorage.googleapis.com/v0/b/aad-project-8e15b.firebasestorage.app/o/Save%20Images%2F60?alt=media&token=1d0bb35a-512e-4c34-b247-9d4e7dbaeaee",
+      "imgURLOther": "https://firebasestorage.googleapis.com/v0/b/aad-project-8e15b.firebasestorage.app/o/Save%20Images%2F61?alt=media&token=efa7eda4-ec05-47ba-884f-cc2e9de8f900",
+      "imgURlSlider": "https://firebasestorage.googleapis.com/v0/b/aad-project-8e15b.firebasestorage.app/o/Save%20Images%2F59?alt=media&token=10acd249-2bd7-42cb-ae48-31bdd09712ed",
+      "name": "Salad ức gà",
+      "popular": true,
+      "priceNew": "89.000",
+      "priceOld": "89000",
+      "productType": "Món ngon",
+      "sale": ""
+    },
+    {
+      "desc": "Burger gà là món ăn nhanh hấp dẫn gồm phần bánh mì mềm thơm kẹp miếng ức gà chiên giòn hoặc nướng, ăn kèm rau xà lách, cà chua, dưa leo muối và sốt mayonnaise hoặc sốt đặc biệt. Lớp vỏ ngoài giòn tan hòa quyện với thịt gà đậm đà và rau tươi mát tạo nên hương vị cân bằng. Đây là lựa chọn tuyệt vời cho bữa ăn tiện lợi nhưng vẫn đầy đủ năng lượng.",
+      "id": 436622,
+      "imgURL": "https://firebasestorage.googleapis.com/v0/b/aad-project-8e15b.firebasestorage.app/o/Save%20Images%2F56?alt=media&token=50005912-b0a4-456f-bdc3-350c6cf971dd",
+      "imgURLOther": "https://firebasestorage.googleapis.com/v0/b/aad-project-8e15b.firebasestorage.app/o/Save%20Images%2F58?alt=media&token=8d0ac3c0-3c29-44ef-891d-626b21881f70",
+      "imgURlSlider": "https://firebasestorage.googleapis.com/v0/b/aad-project-8e15b.firebasestorage.app/o/Save%20Images%2F57?alt=media&token=fa80a350-1509-4d5a-9fe6-675267b6b89a",
+      "name": "Burger gà",
+      "popular": true,
+      "priceNew": "49.000",
+      "priceOld": "49000",
+      "productType": "Món ngon",
+      "sale": ""
+    },
+    {
+      "desc": "Bánh flan (hay còn gọi là caramel flan, crème caramel) là một món tráng miệng mềm mịn, béo ngậy, thường được làm từ trứng, sữa và đường. Lớp trên cùng là caramel vàng nâu có vị ngọt đậm và hơi đắng nhẹ, tạo nên sự cân bằng hương vị rất cuốn hút.",
+      "id": 715513,
+      "imgURL": "https://firebasestorage.googleapis.com/v0/b/aad-project-8e15b.firebasestorage.app/o/Save%20Images%2F263?alt=media&token=7344ddea-bfd3-4604-9a87-b336ab616bc2",
+      "imgURLOther": "https://firebasestorage.googleapis.com/v0/b/aad-project-8e15b.firebasestorage.app/o/Save%20Images%2F262?alt=media&token=dbf8491d-a0c8-4b05-8240-2a3dd2415026",
+      "imgURlSlider": "https://firebasestorage.googleapis.com/v0/b/aad-project-8e15b.firebasestorage.app/o/Save%20Images%2F264?alt=media&token=b682b980-f029-45a4-9bfa-a420ef70d44a",
+      "name": "Bánh Flan",
+      "popular": true,
+      "priceNew": "15.000",
+      "priceOld": "15.000",
+      "productType": "Tráng miệng",
+      "sale": ""
+    },
+    {
+      "desc": "Kem là món tráng miệng mát lạnh được làm từ sữa, kem tươi và đường, kết hợp cùng hương liệu tự nhiên như vani, socola, trái cây... Từng viên kem mềm mịn, ngọt dịu và tan chảy nơi đầu lưỡi, mang đến cảm giác sảng khoái và thư giãn. Với nhiều hình thức phục vụ như kem ly, kem que hay ốc quế, món ăn này phù hợp cho mọi lứa tuổi và dễ dàng biến tấu theo sở thích.",
+      "id": 485408,
+      "imgURL": "https://firebasestorage.googleapis.com/v0/b/aad-project-8e15b.firebasestorage.app/o/Save%20Images%2F267?alt=media&token=e4c278c6-d48f-462a-9ad9-523055a5f87e",
+      "imgURLOther": "https://firebasestorage.googleapis.com/v0/b/aad-project-8e15b.firebasestorage.app/o/Save%20Images%2F275?alt=media&token=8408d2ea-5811-4939-b0d1-d4ac131865d3",
+      "imgURlSlider": "https://firebasestorage.googleapis.com/v0/b/aad-project-8e15b.firebasestorage.app/o/Save%20Images%2F277?alt=media&token=9828d26b-aa21-4728-a17b-970a4ba5461f",
+      "name": "Kem",
+      "popular": true,
+      "priceNew": "25.000",
+      "priceOld": "25.000",
+      "productType": "Tráng miệng",
+      "sale": ""
+    },
+    {
+      "desc": "Sữa chua là món tráng miệng lên men từ sữa tươi, có vị chua nhẹ tự nhiên, kết cấu sánh mịn và hương thơm dịu. Nhờ chứa lợi khuẩn có lợi cho hệ tiêu hóa, sữa chua không chỉ ngon miệng mà còn tốt cho sức khỏe. Món này có thể dùng nguyên vị hoặc kết hợp cùng trái cây tươi, thạch, ngũ cốc hay siro để tăng thêm hương vị và độ hấp dẫn.",
+      "id": 22484,
+      "imgURL": "https://firebasestorage.googleapis.com/v0/b/aad-project-8e15b.firebasestorage.app/o/Save%20Images%2F271?alt=media&token=f79b9d2c-0042-49d9-b08e-c29ffc8720ba",
+      "imgURLOther": "https://firebasestorage.googleapis.com/v0/b/aad-project-8e15b.firebasestorage.app/o/Save%20Images%2F270?alt=media&token=bdc9d016-856e-4784-89fc-30762ceca55b",
+      "imgURlSlider": "https://firebasestorage.googleapis.com/v0/b/aad-project-8e15b.firebasestorage.app/o/Save%20Images%2F272?alt=media&token=f4bff255-6731-4ec3-9b8c-1adbb307c895",
+      "name": "Sữa Chua",
+      "popular": true,
+      "priceNew": "22.500",
+      "priceOld": "25.000",
+      "productType": "Tráng miệng",
+      "sale": "10"
+    },
+    {
+      "desc": "Chè khúc bạch là món tráng miệng thanh mát gồm những khối thạch mềm mịn làm từ kem sữa và gelatin, thường có vị hạnh nhân hoặc trà xanh. Thạch được ăn kèm với nước đường thanh nhẹ, trái cây tươi như nhãn, vải hoặc đào, và có thể rắc thêm hạnh nhân lát rang giòn. Sự kết hợp giữa mát lạnh, béo nhẹ và trái cây tươi khiến món ăn này trở thành lựa chọn lý tưởng trong những ngày nắng nóng.",
+      "id": 444868,
+      "imgURL": "https://firebasestorage.googleapis.com/v0/b/aad-project-8e15b.firebasestorage.app/o/Save%20Images%2F261?alt=media&token=9a9f000d-3010-47b9-923b-3dde7a530fe2",
+      "imgURLOther": "https://firebasestorage.googleapis.com/v0/b/aad-project-8e15b.firebasestorage.app/o/Save%20Images%2F268?alt=media&token=257ff501-1a43-41e5-a7ec-8d25b0a34e3e",
+      "imgURlSlider": "https://firebasestorage.googleapis.com/v0/b/aad-project-8e15b.firebasestorage.app/o/Save%20Images%2F269?alt=media&token=2b81e8a2-2500-48e4-b7d3-c2d538c0a43b",
+      "name": "Chè Khúc Bạch",
+      "popular": false,
+      "priceNew": "29.750",
+      "priceOld": "35.000",
+      "productType": "Tráng miệng",
+      "sale": "15"
+    },
+    {
+      "desc": "Panna Cotta là món tráng miệng kiểu Ý được làm từ kem tươi, sữa, đường và gelatin, tạo nên kết cấu mịn mượt, mềm dẻo như thạch nhưng béo ngậy và thơm nhẹ. Món này thường được dùng lạnh và ăn kèm với sốt trái cây như dâu, việt quất hoặc caramel để tăng thêm hương vị. Vị ngọt dịu, độ béo vừa phải cùng cảm giác tan nhẹ nơi đầu lưỡi giúp Panna Cotta trở thành món tráng miệng được ưa chuộng trong các bữa tiệc, nhà hàng hoặc quán cà phê.",
+      "id": 206094,
+      "imgURL": "https://firebasestorage.googleapis.com/v0/b/aad-project-8e15b.firebasestorage.app/o/Save%20Images%2F276?alt=media&token=4526d924-7854-420d-a571-c892568c0f98",
+      "imgURLOther": "https://firebasestorage.googleapis.com/v0/b/aad-project-8e15b.firebasestorage.app/o/Save%20Images%2F274?alt=media&token=1325aa2f-96d5-4b3d-b7d8-356515e5b8be",
+      "imgURlSlider": "https://firebasestorage.googleapis.com/v0/b/aad-project-8e15b.firebasestorage.app/o/Save%20Images%2F273?alt=media&token=618fb567-6e13-4863-ba21-f46010bc6c8c",
+      "name": "Pana Cota",
+      "popular": true,
+      "priceNew": "10.000",
+      "priceOld": "10.000",
+      "productType": "Tráng miệng",
+      "sale": ""
+    },
+    {
+      "desc": "Hoa quả dầm là món tráng miệng tươi mát gồm nhiều loại trái cây cắt nhỏ như xoài, dưa hấu, kiwi, táo, nho, mít… trộn cùng sữa đặc, sữa chua hoặc đá bào. Hương vị tự nhiên từ trái cây hòa quyện cùng vị béo ngọt của sữa tạo nên món ăn vừa ngon miệng, vừa giàu vitamin và chất xơ. Đây là lựa chọn lý tưởng cho những ngày hè, giúp thanh nhiệt và bổ sung năng lượng nhẹ nhàng.",
+      "id": 267791,
+      "imgURL": "https://firebasestorage.googleapis.com/v0/b/aad-project-8e15b.firebasestorage.app/o/Save%20Images%2F260?alt=media&token=006e0e9b-0821-4a1c-af34-ba6ace201e2e",
+      "imgURLOther": "https://firebasestorage.googleapis.com/v0/b/aad-project-8e15b.firebasestorage.app/o/Save%20Images%2F265?alt=media&token=a4f0beb9-2206-4da2-bc77-a09609b510e4",
+      "imgURlSlider": "https://firebasestorage.googleapis.com/v0/b/aad-project-8e15b.firebasestorage.app/o/Save%20Images%2F257?alt=media&token=e2fdfad1-dc39-4e05-8f0c-098bc35ee65c",
+      "name": "Hoa quả dầm",
+      "popular": false,
+      "priceNew": "25.000",
+      "priceOld": "25.000",
+      "productType": "Tráng miệng",
+      "sale": ""
+    },
+    {
+      "desc": "Thạch rau câu hoa quả là món tráng miệng thanh mát, được làm từ bột rau câu kết hợp cùng các loại trái cây tươi như xoài, dưa hấu, vải, nho, dâu… tùy theo mùa. Thạch có kết cấu giòn nhẹ, trong suốt, vị ngọt dịu, dễ ăn và giúp giải nhiệt hiệu quả. Nhờ sự kết hợp tự nhiên từ rau câu và trái cây, món ăn không chỉ đẹp mắt mà còn cung cấp vitamin và chất xơ, thích hợp cho cả trẻ nhỏ lẫn người ăn kiêng.",
+      "id": 404109,
+      "imgURL": "https://firebasestorage.googleapis.com/v0/b/aad-project-8e15b.firebasestorage.app/o/Save%20Images%2F258?alt=media&token=75732375-9f52-4a45-9460-0f851021e658",
+      "imgURLOther": "https://firebasestorage.googleapis.com/v0/b/aad-project-8e15b.firebasestorage.app/o/Save%20Images%2F259?alt=media&token=8ed87b19-0b35-464c-9599-0dbc8d629cda",
+      "imgURlSlider": "https://firebasestorage.googleapis.com/v0/b/aad-project-8e15b.firebasestorage.app/o/Save%20Images%2F266?alt=media&token=69f83e9b-4bd0-4229-abf8-5c6f20ebda24",
+      "name": "Thạch rau câu hoa quả",
+      "popular": false,
+      "priceNew": "20.000",
+      "priceOld": "20.000",
+      "productType": "Tráng miệng",
+      "sale": ""
+    },
+    {
+      "desc": "Trà sữa là một loại đồ uống kết hợp giữa trà (thường là trà đen, trà xanh hoặc trà ô long) và sữa (sữa đặc, sữa tươi hoặc bột kem béo), thường được thêm đường và đá để uống lạnh. Điểm đặc trưng của trà sữa hiện đại là topping đa dạng như trân châu, thạch, pudding… tạo cảm giác ngon miệng và thú vị khi thưởng thức. Với hương vị ngọt béo hài hòa và nhiều lựa chọn phong phú, trà sữa đã trở thành một trong những thức uống được giới trẻ yêu thích nhất hiện nay.",
+      "id": 141686,
+      "imgURL": "https://firebasestorage.googleapis.com/v0/b/aad-project-8e15b.firebasestorage.app/o/Save%20Images%2F3154?alt=media&token=b875b865-d734-4ff1-a9c9-70ffde549dab",
+      "imgURLOther": "https://firebasestorage.googleapis.com/v0/b/aad-project-8e15b.firebasestorage.app/o/Save%20Images%2F3155?alt=media&token=33e77f43-755d-4d0c-9d82-1b05675128ec",
+      "imgURlSlider": "https://firebasestorage.googleapis.com/v0/b/aad-project-8e15b.firebasestorage.app/o/Save%20Images%2F3153?alt=media&token=4807a67c-68f9-423b-831a-5e2b593d1ad7",
+      "name": "Trà sữa trân châu đường đen",
+      "popular": true,
+      "priceNew": "31.500",
+      "priceOld": "35000",
+      "productType": "Đồ uống",
+      "sale": "10%"
+    },
+    {
+      "desc": "Coca vị nguyên bản là loại nước giải khát có ga nổi tiếng với hương vị đặc trưng pha trộn giữa vị ngọt dịu, hơi chua nhẹ và cảm giác mát lạnh sảng khoái. Với công thức độc quyền từ năm 1886, Coca nguyên bản mang đến sự cân bằng giữa vị caramel và hương thảo mộc nhẹ, tạo nên trải nghiệm vị giác khó quên. Đây là lựa chọn phổ biến trong các bữa ăn nhanh, tiệc tùng hoặc đơn giản là để giải khát trong ngày nắng nóng.",
+      "id": 932041,
+      "imgURL": "https://firebasestorage.googleapis.com/v0/b/aad-project-8e15b.firebasestorage.app/o/Save%20Images%2F3171?alt=media&token=5430d46a-914b-4913-a82d-43576f60d111",
+      "imgURLOther": "https://firebasestorage.googleapis.com/v0/b/aad-project-8e15b.firebasestorage.app/o/Save%20Images%2F3172?alt=media&token=cb9fa029-5715-478c-b458-2faf19b539d3",
+      "imgURlSlider": "https://firebasestorage.googleapis.com/v0/b/aad-project-8e15b.firebasestorage.app/o/Save%20Images%2F3170?alt=media&token=cd03d92f-2bf0-451c-8c0d-826f84321f47",
+      "name": "Coca vị nguyên bản",
+      "popular": true,
+      "priceNew": "10.000",
+      "priceOld": "10000",
+      "productType": "Đồ uống",
+      "sale": ""
+    }
+  ],
+  "users": {
+    "HNQO0HPcQjN17zBBThTfg5fYyW53": {
+      "email": "abc@gmail.com",
+      "role": 0
+    },
+    "mQOTWe4JbsNhBbUlMfYSoYcMwjA2": {
+      "email": "aaa@gmail.com",
+      "role": 1
+    }
+  }
+}
